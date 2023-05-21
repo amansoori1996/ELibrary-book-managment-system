@@ -1,0 +1,64 @@
+{
+  "managment": [
+    {
+      "id": 2,
+      "bid": "1",
+      "title": "Good News",
+      "author": "b.k",
+      "genre": "social",
+      "year": "2017",
+      "quantity": "5",
+      "price": "200"
+    },
+    {
+      "id": 3,
+      "bid": 2,
+      "title": "Good News",
+      "author": "A.k",
+      "genre": "social",
+      "year": 2017,
+      "quantity": 5,
+      "price": 2000
+    },
+    {
+      "bid": 3,
+      "title": "Amazon",
+      "author": "CSS",
+      "genre": "Forest",
+      "year": "2010",
+      "quantity": "10",
+      "price": "200",
+      "id": 4
+    },
+    {
+      "bid": "1001",
+      "title": "The Book Of LIFE",
+      "author": "J. Krishnamurti ",
+      "genre": "Life",
+      "year": "2012",
+      "quantity": "10",
+      "price": "300",
+      "id": 5
+    },
+    {
+      "bid": "1002",
+      "title": "Life Sucks. Get Used To It.",
+      "author": "Mohamed Zubair ",
+      "genre": "Life",
+      "year": "2001",
+      "quantity": "5",
+      "price": "400",
+      "id": 6
+    },
+    {
+      "bid": "1003",
+      "title": "Psychology of Life ",
+      "author": "Anirudha Singh ",
+      "genre": "Life",
+      "year": "2005",
+      "quantity": "5",
+      "price": "400",
+      "id": 7
+    }
+  ]
+}
